@@ -1,0 +1,347 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CosumoAPIs
+</name>
+</assembly>
+<members>
+<member name="T:CosumoAPIs.My.MyWebExtension">
+ <summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:CosumoAPIs.My.MyWebExtension.Computer">
+ <summary>
+ Returns information about the host computer.
+ </summary>
+</member>
+<member name="P:CosumoAPIs.My.MyWebExtension.User">
+ <summary>
+ Returns information for the current Web user.
+ </summary>
+</member>
+<member name="P:CosumoAPIs.My.MyWebExtension.Request">
+ <summary>
+ Returns Request object.
+ </summary>
+</member>
+<member name="P:CosumoAPIs.My.MyWebExtension.Response">
+ <summary>
+ Returns Response object.
+ </summary>
+</member>
+<member name="P:CosumoAPIs.My.MyWebExtension.Log">
+ <summary>
+ Returns the Asp log object.
+ </summary>
+</member>
+<member name="F:CosumoAPIs.Site1._head">
+<summary>
+head control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CosumoAPIs.Site1._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CosumoAPIs.Site1._ContentPlaceHolder1">
+<summary>
+ContentPlaceHolder1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CosumoAPIs.MuestaDatos._Button1">
+<summary>
+Button1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CosumoAPIs.MuestaDatos._btnMuestaDatos">
+<summary>
+btnMuestaDatos control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CosumoAPIs.MuestaDatos._vDatos">
+<summary>
+vDatos control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CosumoAPIs.MuestaDatos._lblTitulo1">
+<summary>
+lblTitulo1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CosumoAPIs.MuestaDatos._lblFecha1">
+<summary>
+lblFecha1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CosumoAPIs.MuestaDatos._lblFULLNAME1">
+<summary>
+lblFULLNAME1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CosumoAPIs.MuestaDatos._lblPRICE1">
+<summary>
+lblPRICE1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CosumoAPIs.MuestaDatos._lblHIGHDAY1">
+<summary>
+lblHIGHDAY1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CosumoAPIs.MuestaDatos._lblLOWDAY1">
+<summary>
+lblLOWDAY1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CosumoAPIs.MuestaDatos._lblCHANGEPCT24HOUR1">
+<summary>
+lblCHANGEPCT24HOUR1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CosumoAPIs.MuestaDatos._lblTitulo2">
+<summary>
+lblTitulo2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CosumoAPIs.MuestaDatos._lblFecha2">
+<summary>
+lblFecha2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CosumoAPIs.MuestaDatos._lblFULLNAME2">
+<summary>
+lblFULLNAME2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CosumoAPIs.MuestaDatos._lblPRICE2">
+<summary>
+lblPRICE2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CosumoAPIs.MuestaDatos._lblHIGHDAY2">
+<summary>
+lblHIGHDAY2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CosumoAPIs.MuestaDatos._lblLOWDAY2">
+<summary>
+lblLOWDAY2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CosumoAPIs.MuestaDatos._lblCHANGEPCT24HOUR2">
+<summary>
+lblCHANGEPCT24HOUR2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CosumoAPIs.MuestaDatos._lblTitulo3">
+<summary>
+lblTitulo3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CosumoAPIs.MuestaDatos._lblFecha3">
+<summary>
+lblFecha3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CosumoAPIs.MuestaDatos._lblFULLNAME3">
+<summary>
+lblFULLNAME3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CosumoAPIs.MuestaDatos._lblPRICE3">
+<summary>
+lblPRICE3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CosumoAPIs.MuestaDatos._lblHIGHDAY3">
+<summary>
+lblHIGHDAY3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CosumoAPIs.MuestaDatos._lblLOWDAY3">
+<summary>
+lblLOWDAY3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CosumoAPIs.MuestaDatos._lblCHANGEPCT24HOUR3">
+<summary>
+lblCHANGEPCT24HOUR3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CosumoAPIs.MuestaDatos._lblTitulo4">
+<summary>
+lblTitulo4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CosumoAPIs.MuestaDatos._lblFecha4">
+<summary>
+lblFecha4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CosumoAPIs.MuestaDatos._lblFULLNAME4">
+<summary>
+lblFULLNAME4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CosumoAPIs.MuestaDatos._lblPRICE4">
+<summary>
+lblPRICE4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CosumoAPIs.MuestaDatos._lblHIGHDAY4">
+<summary>
+lblHIGHDAY4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CosumoAPIs.MuestaDatos._lblLOWDAY4">
+<summary>
+lblLOWDAY4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CosumoAPIs.MuestaDatos._lblCHANGEPCT24HOUR4">
+<summary>
+lblCHANGEPCT24HOUR4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+</members>
+</doc>
